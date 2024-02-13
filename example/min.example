@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EXAMPLE:Example xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:EXAMPLE="http://www.example.org/EXAMPLE">
+    <values>1.0</values>
+    <values>2.0</values>
+    <values>3.0</values>
+</EXAMPLE:Example>
